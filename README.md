@@ -21,7 +21,7 @@ cd instainsane1.1 && chmod +x *
 ```
 
 
-## 
+## instainsane1.1 Apart
 
  Instainsane1.1 stands out from the crowd for several reasons:
 
